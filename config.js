@@ -383,7 +383,7 @@ module.exports = {
     get WELCOME_MESSAGE() { return hybridConfig.getSetting('WELCOME_MESSAGE', 'no'); },
     get GROUP_ANTILINK2() { return process.env.GROUPANTILINK_DELETE_ONLY || 'yes'; },
     get GROUP_ANTILINK() { return hybridConfig.getSetting('GROUPANTILINK', 'no'); },
-    get STATUS_REACT_EMOJIS() { return process.env.STATUS_REACT_EMOJIS || ""; },
+    get STATUS_REACT_EMOJIS() { return process.env.STATUS_REACT_EMOJIS || "💚🤍"; },
     get REPLY_STATUS_TEXT() { return process.env.REPLY_STATUS_TEXT || ""; },
     get AUTO_REACT() { return hybridConfig.getSetting('AUTO_REACT', 'no'); },
     get AUTO_REACT_STATUS() { return hybridConfig.getSetting('AUTO_REACT_STATUS', 'yes'); },
