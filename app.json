@@ -1,8 +1,8 @@
 
 
 {
-  "name": "BWM-XMD-QUANTUM",
-  "description": "Best WhatsApp bot developed by Ibrahim Adams",
+  "name": "VINEI",
+  "description": "WhatsApp bot",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/2kcb4s.jpeg",
   "repository": "https://github.com/ekitale/maths-project",
@@ -11,7 +11,7 @@
   "env": {
     "PREFIX": {
       "description": "Choose your prefix for your bot",
-      "value": ".",
+      "value": "°",
       "required": true
     },
     "AUTO_REJECT_CALL": {
@@ -51,12 +51,12 @@
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "VINEI-XMD",
       "required": false
     },
     "BOT_URL": {
       "description": "Image or video url for your bot menu",
-      "value": "https://url.bwmxmd.online/Adams.zwu780jq.jpg,https://url.bwmxmd.online/Adams.dlmegzh8.mp4",
+      "value": "https://i.ibb.co/Df1tVZBQ/photo-2025-10-25-23-55-18-7565312556617695276.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -76,12 +76,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "255624741607",
       "required": false 
     },
     "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚",
       "required": false 
     },
     "AUTO_REACT": {
@@ -96,17 +96,17 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Adobe Vinei",
       "required": false
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "Vinei_9aeud",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
       "description": "Enable starting message (yes/no)",
-      "value": "yes",
+      "value": "no",
       "required": true
     },
     "PRESENCE": {
